@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media1.tenor.com/images/2fdfdcfb0c000217825d6584677df229/tenor.gif?itemid=26795470" alt="animated" />
+</p>
+
 
 <!--
 **devAhmeed/devAhmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
