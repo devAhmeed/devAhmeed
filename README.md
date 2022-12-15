@@ -3,7 +3,8 @@
 </p>
 
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) About : 
- > Under Maintenance
+ > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devAhmeed&theme=radical&show_icons=true&count_private=true)
+ 
 <!--
 **devAhmeed/devAhmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
