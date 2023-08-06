@@ -3,7 +3,6 @@
 </p>
 
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) About : 
-![Profile views](https://gpvc.arturio.dev/devAhmeed)
  > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devAhmeed&theme=radical&show_icons=true&count_private=true)
 
 <hr>
